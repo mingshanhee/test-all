@@ -38,9 +38,6 @@
 <loc>http://0.0.0.0:4000/calls/main_conference_papers/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/calls/main_conference_papers/</loc>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/calls/papers/Mandatory-abstract-submission</loc>
 </url>
 <url>
@@ -203,12 +200,12 @@
 <loc>http://0.0.0.0:4000/ethics/faq/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/faq/</loc>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/ethics/faq/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/faq/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/</loc>
 </url>
 <url>
@@ -243,6 +240,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/program/keynotes/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/calls/main-conference-papers/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/organization/</loc>
