@@ -61,7 +61,7 @@ EMNLP 2025 aims to have a broad technical program. Relevant topics for the confe
 - Resources and Evaluation
 - Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech Processing and Spoken Language Understanding
+- Speech Processing and Spoken language understanding
 - Summarization
 - Hierarchical Structure Prediction, Syntax, and Parsing
 - NLP Applications
