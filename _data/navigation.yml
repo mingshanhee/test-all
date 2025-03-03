@@ -3,6 +3,10 @@
 main:
   - title: "Calls"
     url: /calls/main-conference-papers/
+
+  - title: "Sponsors"
+    url: /sponsors/
+
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
