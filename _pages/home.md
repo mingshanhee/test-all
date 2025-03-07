@@ -19,6 +19,7 @@ EMNLP 2025 will be held in Suzhou, China from **November 5th** to **November 9th
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Mar 3, 2025 | [Call for sponsors](https://2025.emnlp.org/sponsors/) is out!
 | Jan 29, 2025 | [First call for papers](https://2025.emnlp.org/calls/main-conference-papers/) is out!
 {: .news-table}
 
