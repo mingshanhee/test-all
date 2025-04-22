@@ -21,7 +21,7 @@ EMNLP 2025 invites the submission of long and short papers featuring substantial
 
 ## Paper Submission Information
 
-**Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
+**Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
 
 ## Mandatory Reviewing Workload
 
@@ -61,7 +61,7 @@ EMNLP 2025 aims to have a broad technical program. Relevant topics for the confe
 - Resources and Evaluation
 - Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech Processing and spoken language understanding
+- Speech Processing and Spoken Language Understanding
 - Summarization
 - Hierarchical Structure Prediction, Syntax, and Parsing
 - NLP Applications
