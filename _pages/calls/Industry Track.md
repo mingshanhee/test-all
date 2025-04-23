@@ -32,39 +32,42 @@ Contributions are invited across all spectrums of language technologies and syst
 
 
 ## Topics of Interest
-The EMNLP 2024 Industry Track provides the opportunity to highlight the key insights and new research challenges that arise from the development and deployment of real-world applications using language technologies.
+The EMNLP 2025 Industry Track provides the opportunity to highlight the key insights and new research challenges that arise from the development and deployment of real-world applications using language technologies.
 
 Relevant areas include system design, efficiency, maintainability and scalability of real-world applications, with topics in alphabetical order including, but not limited to:
-- Benchmarks and methods for improving the latency and efficiency of systems
-- Continuous maintenance and improvement of deployed systems
-- Efficient methods for training and inference
-- Enabling infrastructure for large-scale deployment
-- Human-in-the-Loop approaches to application development
-- Implementation at speed, scale or low-cost
+
+- Benchmarks and methods for improving the latency and efficiency of systems 	
+- Continuous maintenance and improvement of deployed systems 	
+- Efficient methods for training and inference 	
+- Enabling infrastructure for large-scale deployment 	
+- Human-in-the-Loop approaches to application development 	
+- Implementation at speed, scale or low-cost 	
 - System combination
-
+- 
 Novel applications and use cases, with topics in alphabetical order including, but not limited to:
-- Best practices, lessons learned or a vision on deploying real-world applications
-- Case studies, from design to deployment
-- Description of an application or system
-- Design of application-relevant datasets
-- Development of methods under system constraints (model or data size)
-- Novel NLP applications
 
+- Best practices, lessons learned or a vision on deploying real-world applications
+- Case studies, from design to deployment 	
+- Description of an application or system 	
+- Design of application-relevant datasets 	
+- Development of methods under system constraints (model or data size) 	
+- Novel NLP applications
+  
 Methods for deployed systems, with topics in alphabetical order including, but not limited to:
-- Ethics, bias, fairness and harmlessness
-- Interpretability
-- Interactive systems
-- Offline and online system evaluation methodologies
-- Online learning
-- Robustness
+
+- Ethics, bias, fairness and harmlessness 	
+- Interpretability 	
+- Interactive systems 	
+- Offline and online system evaluation methodologies 	
+- Online learning 	
+- Robustness 	
 
 ## Important Dates
-- Paper submission deadline: July 18, 2024
-- Reviewer-author discussion period: 5-11 September, 2024
-- Notification: October 1, 2024
-- Camera-ready version of papers due: October 15, 2024
-- Main conference: 12 - 14 November 2024
+- Paper submission deadline: July 4, 2025
+- Reviewer-author discussion period: August 8 – September 4, 2025
+- Notification: September 24, 2025
+- Camera-ready version of papers due: October 8, 2025
+- Main conference: 5 - 9 November 2025
 
 **Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).**
 
