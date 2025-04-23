@@ -122,7 +122,7 @@
 <loc>http://0.0.0.0:4000/program/keynotes/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/calls/main-conference-papers/</loc>
+<loc>http://0.0.0.0:4000/calls/main_conference_papers/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/organization/</loc>
