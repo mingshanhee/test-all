@@ -1,8 +1,15 @@
 # main links
 #in masthead.html
 main:
-   - title: "Calls"
-     url: /calls/main-conference-papers/
+  - title: "Calls"
+    url: /calls/main-conference-papers/
+
+  - title: "Committees"
+    url: /organization
+
+  - title: "Sponsors"
+    url: /sponsors/
+
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
@@ -24,6 +31,17 @@ calls:
       #   url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: "System Demonstration"
+        url: /calls/demos/
+
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      #- title: "Senior Program Committee"
+      #  url: /committees/program/
 
 
 # participants:

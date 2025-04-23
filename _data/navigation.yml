@@ -31,6 +31,8 @@ calls:
       #   url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: "System Demonstration"
+        url: /calls/demos/
 
 
 committees:
