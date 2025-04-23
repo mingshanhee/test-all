@@ -1,5 +1,5 @@
 ---
-title: Call For System Demonstrations
+title: Call for System Demonstrations
 layout: single
 permalink: /calls/demos/
 sidebar: 
