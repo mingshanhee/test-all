@@ -33,8 +33,7 @@ calls:
         url: /calls/main_conference_papers/
       - title: "System Demonstration"
         url: /calls/demos/
-      - title: "Industry Track"
-        url: /calls/industry_track/
+      -title: "Industry Track"
 
 
 committees:
