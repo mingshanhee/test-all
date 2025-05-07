@@ -117,6 +117,7 @@ Both long and short paper submissions should follow all of the [ARR submission r
 * [Citation and Comparison](https://aclrollingreview.org/cfp#citation-and-comparison)
 * [Multiple Submission Policy](https://aclrollingreview.org/cfp#multiple-submission-policy), [Resubmission Policy](https://aclrollingreview.org/cfp#resubmission-policy), and [Withdrawal Policy](https://aclrollingreview.org/cfp#withdrawal-policy)
 * ACL’s [Publication Ethics Policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics), and ARR’s [Ethics Policy](https://aclrollingreview.org/cfp#ethics-policy) including the [responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch)
+* ACL's [Disclosure Policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Co-ordinated_disclosure)
 * [Limitations](https://aclrollingreview.org/cfp#limitations)
 * [Writing Assistance](https://2023.aclweb.org/blog/ACL-2023-policy/)
 * [Paper Submission and Templates](https://aclrollingreview.org/cfp#paper-submission-and-templates)
