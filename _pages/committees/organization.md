@@ -89,6 +89,15 @@ sidebar:
    picture="/assets/images/committee/Maja-Popovic.jpg"
 %}
 
+{% include committee-member.html
+   name="Eleftherios Avramidis"
+   institution="DFKI, Berlin"
+   email="eleftherios.avramidis@dfki.de"
+   role="Workshop Chairs"
+   site="https://ki-campus.org/node/552"
+   picture="/assets/images/committee/Eleftherios-Avramidis.jpg"
+%}
+
 <h2>Tutorial Chairs</h2>
 {% include committee-member.html
    name="Valentina Pyatkin"
