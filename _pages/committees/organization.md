@@ -79,7 +79,6 @@ sidebar:
    site="https://sunipa.github.io"
    picture="/assets/images/committee/Sunipa-Dev.jpg"
 %}
-
 {% include committee-member.html
    name="Maja Popović"
    institution="Dublin City University  & IU University, Berlin"
@@ -88,7 +87,6 @@ sidebar:
    site="https://www.adaptcentre.ie/experts/maja-popovic"
    picture="/assets/images/committee/Maja-Popovic.jpg"
 %}
-
 {% include committee-member.html
    name="Eleftherios Avramidis"
    institution="DFKI, Berlin"
