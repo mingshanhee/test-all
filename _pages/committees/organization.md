@@ -79,6 +79,14 @@ sidebar:
    site="https://sunipa.github.io"
    picture="/assets/images/committee/Sunipa-Dev.jpg"
 %}
+{% include committee-member.html
+   name="Maja Popović"
+   institution="Dublin City University  & IU University, Berlin"
+   email=" maja.popovic.166@gmail.com"
+   role="Workshop Chairs"
+   site="https://www.adaptcentre.ie/experts/maja-popovic"
+   picture="/assets/images/committee/Maja-Popovic.jpg"
+%}
 
 <h2>Tutorial Chairs</h2>
 {% include committee-member.html
