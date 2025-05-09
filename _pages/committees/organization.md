@@ -238,6 +238,14 @@ sidebar:
    site="https://aaronmueller.github.io"
    picture="/assets/images/committee/Aaron-Mueller.jpg"
 %}
+{% include committee-member.html
+   name="Dallas Card"
+   institution="University of Michigan"
+   email="dalc@umich.edu"
+   role="Publicity Chairs"
+   site="https://dallascard.github.io/"
+   picture="/assets/images/committee/Dallas-Card.jpg"
+%}
 
 <h2>Student Volunteer Chairs</h2>
 
