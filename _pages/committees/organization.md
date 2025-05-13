@@ -68,6 +68,14 @@ sidebar:
    site="https://openreview.net/profile?id=~Lina_M._Rojas-Barahona1"
    picture="/assets/images/committee/Lina-Rojas.jpg"
 %}
+{% include committee-member.html
+   name="Sebastien Montella"
+   institution="Huawei"
+   email="montellasebastien@gmail.com"
+   role="Industry Track Chairs"
+   site="https://montellasebastien.github.io"
+   picture="/assets/images/committee/Sebastien-Montella.jpg"
+%}
 
 
 <h2>Workshop Chairs</h2>
