@@ -278,6 +278,15 @@ sidebar:
 
 <h2>Diversity and Inclusion Chairs</h2>
 {% include committee-member.html
+   name="Chenxi Whitehouse"
+   institution="Meta AI"
+   email="chenxwh@meta.com"
+   role="Diversity and Inclusion Chairs"
+   site="https://chenxwh.github.io/"
+   picture="/assets/images/committee/Chenxi-Whitehouse.jpg"
+%}
+
+{% include committee-member.html
    name="Margot Mieskes"
    institution="University of Applied Sciences Darmstadt"
    email="margot.mieskes@h-da.de"
