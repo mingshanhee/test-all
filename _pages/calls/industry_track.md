@@ -149,7 +149,8 @@ Review the calls for both tracks. If in doubt, contact the track chairs.
 
 ## Industry Track Chairs
 
-- [Saloni Potdar](https://salonipotdar.github.io/) (Apple Inc.)  
+- [Saloni Potdar](https://salonipotdar.github.io/) (Apple Inc.)
+- [Sebastien Montella](https://montellasebastien.github.io/) (Huawei)  
 - [Lina Rojas-Barahona](https://openreview.net/profile?id=~Lina_M._Rojas-Barahona1) (Orange)  
 
 **Contact:** [emnlp2025-industry-track@googlegroups.com](mailto:emnlp2025-industry-track@googlegroups.com)
