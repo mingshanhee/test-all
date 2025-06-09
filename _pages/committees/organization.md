@@ -295,6 +295,15 @@ sidebar:
    picture="/assets/images/committee/Margot-Mieskes.jpg"
 %}
 
+{% include committee-member.html
+   name="Roy Ka-Wei Lee"
+   institution="Singapore University of Technology and Design"
+   email="roy_lee@sutd.edu.sg"
+   role="Diversity and Inclusion Chairs"
+   site="https://www.sutd.edu.sg/profile/roy-lee/"
+   picture="/assets/images/committee/Roy-Ka-Wei-Lee.jpg"
+%}
+
 <h2>Website Chairs</h2>
 {% include committee-member.html
    name="Marcelo Viridiano"
